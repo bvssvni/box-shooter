@@ -1,3 +1,5 @@
+#![feature(globs)]
+
 extern crate piston;
 extern crate graphics;
 extern crate opengles;
